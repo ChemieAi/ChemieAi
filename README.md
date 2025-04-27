@@ -127,9 +127,9 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/burak-kızılay/"><img width="105px" alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:chemie.valorant@gmail.com"><img width="87px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
+<a href="mailto:chemie.valorant@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
 <a href="https://linktr.ee/Chemie_"><img width="105px" alt="LinkTree" src="https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white" /></a> &nbsp; &nbsp; 
-<a href="https://kick.com/Chemie"><img width="85px" alt="Kick" src="https://img.shields.io/badge/Kick-53FC19?logo=kick&logoColor=000" /></a> &nbsp; &nbsp; 
+<a href="https://kick.com/Chemie"><img width="80px" alt="Kick" src="https://img.shields.io/badge/Kick-53FC19?logo=kick&logoColor=000" /></a> &nbsp; &nbsp; 
 <a href="https://twitch.tv/ChemieAi"><img width="90px" alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" /></a> &nbsp; &nbsp; 
 <a href="https://www.youtube.com/@chemieai"><img width="105px" alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a> &nbsp; &nbsp; 
 
