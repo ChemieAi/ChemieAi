@@ -41,6 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 
@@ -116,7 +117,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kaustav202}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{chemieai}/count.svg" /></p> 
 <br>
 </div>
  
