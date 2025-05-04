@@ -96,7 +96,7 @@ You can click the Preview link to take a look at your changes.
  </br>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=chemieai&theme=dark"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chemieai&exclude_repo=Portfolio,HomePal&langs_count=11&layout=compact&bg_color=transparent"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chemieai&exclude_repo=Portfolio,HomePal&langs_count=11&layout=compact&theme=dark"/>
 </p>
      
   </td>
