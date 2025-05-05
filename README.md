@@ -15,7 +15,7 @@
 - 💡 I’m curious about DBMS and AI.
 - 📖 I’m currently learning Unity and Deutsch.
 - ❄️ I’m currently open for work.
-- 📫 How to reach me ➪ chemie.valorant@gmail.com.
+- 📫 How to reach me ➪ chemie.valorant@gmail.com 
 
 <hr>
 
