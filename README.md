@@ -101,7 +101,7 @@ https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-
  </br>
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chemieai&exclude_repo=Portfolio,HomePal&langs_count=11&layout=compact&theme=dark"/>
  </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Chemieai&theme=dark&hide_current_streak=true"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Chemieai&theme=dark"/>
 </p>
      
   </td>
