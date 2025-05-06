@@ -1,6 +1,6 @@
 # Hey there👋, Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+it's+Burak;Full+stack+developer...;Open+For+Work;Please+Contact+Via+Mail"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+it's+Burak;Full+stack+developer;Open+For+Work;Please+Contact+Via+Mail"/>
  
  <p>- <i>I am a Computer Engineer with hands-on experience in React, Java, Spring Boot, Oracle, and MSSQL. I actively utilize JIRA and Agile methodologies in my workflow, continuously improving my engineering skills. My passion for technology and teamwork enables me to contribute effectively to projects. With my analytical thinking, problem-solving, and strong communication abilities, I strive to add value to every project I am involved in.</i></p>
 
