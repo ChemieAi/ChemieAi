@@ -5,7 +5,7 @@
  <p>- <i>I am a Computer Engineer with hands-on experience in React, Java, Spring Boot, Oracle, and MSSQL. I actively utilize JIRA and Agile methodologies in my workflow, continuously improving my engineering skills. My passion for technology and teamwork enables me to contribute effectively to projects. With my analytical thinking, problem-solving, and strong communication abilities, I strive to add value to every project I am involved in.</i></p>
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="50%" align="right" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="50%" align="right" />
 
 ## ⚡🙋‍♂️ About Me
 
