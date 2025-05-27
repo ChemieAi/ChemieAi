@@ -15,7 +15,8 @@
 - 💡 I’m curious about DBMS and AI.
 - 📖 I’m currently learning Unity and Deutsch.
 - ❄️ I’m currently open for work.
-- 📫 How to reach me ➪ chemie.valorant@gmail.com 
+- 📫 How to reach me ➪ chemie.valorant@gmail.com
+- [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kzlyburakq)
 
 <hr>
 
@@ -135,7 +136,7 @@ https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-
 <a href="https://kick.com/Chemie"><img width="72px" alt="Kick" src="https://img.shields.io/badge/Kick-53FC19?logo=kick&logoColor=000" /></a> &nbsp; &nbsp; 
 <a href="https://twitch.tv/ChemieAi"><img width="90px" alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" /></a> &nbsp; &nbsp; 
 <a href="https://www.youtube.com/@chemieai"><img width="105px" alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a> &nbsp; &nbsp; 
-
+<a href="https://buymeacoffee.com/kzlyburakq"><img width="105px" alt="BuyMeaCoffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black" /></a> &nbsp; &nbsp; 
 
 </br>
 </br>
