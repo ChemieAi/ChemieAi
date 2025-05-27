@@ -18,7 +18,6 @@
 - 📫 How to reach me ➪ chemie.valorant@gmail.com
 - <a href="https://linktr.ee/Chemie_"><img width="105px" alt="LinkTree" src="https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white" /></a> &nbsp; &nbsp; 
 - <a href="https://buymeacoffee.com/kzlyburakq"><img width="180px" alt="BuyMeaCoffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black" /></a> &nbsp; &nbsp;
-- [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kzlyburakq)
 
 <hr>
 
