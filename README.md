@@ -17,7 +17,7 @@
 - ❄️ I’m currently open for work.
 - 📫 How to reach me ➪ chemie.valorant@gmail.com
 - <a href="https://linktr.ee/Chemie_"><img width="105px" alt="LinkTree" src="https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white" /></a> &nbsp; &nbsp; 
-- <a href="https://buymeacoffee.com/kzlyburakq"><img width="180px" alt="BuyMeaCoffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black" /></a> &nbsp; &nbsp;
+- <a href="https://buymeacoffee.com/kzlyburakq"><img width="150px" alt="BuyMeaCoffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black" /></a> &nbsp; &nbsp;
 
 <hr>
 
@@ -137,7 +137,7 @@ https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-
 <a href="https://kick.com/Chemie"><img width="72px" alt="Kick" src="https://img.shields.io/badge/Kick-53FC19?logo=kick&logoColor=000" /></a> &nbsp; &nbsp; 
 <a href="https://twitch.tv/ChemieAi"><img width="90px" alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" /></a> &nbsp; &nbsp; 
 <a href="https://www.youtube.com/@chemieai"><img width="105px" alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a> &nbsp; &nbsp; 
-<a href="https://buymeacoffee.com/kzlyburakq"><img width="180px" alt="BuyMeaCoffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black" /></a> &nbsp; &nbsp; 
+<a href="https://buymeacoffee.com/kzlyburakq"><img width="150px" alt="BuyMeaCoffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black" /></a> &nbsp; &nbsp; 
 
 </br>
 </br>
