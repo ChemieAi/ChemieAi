@@ -102,7 +102,7 @@ https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-
  </br>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=ChemieAi&theme=radical"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chemieai&hide=Roff,Assembly,Makefile&exclude_repo=DataScience1,DataScience2&langs_count=8&layout=compact&theme=radical"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chemieai&hide=Roff,Assembly,Makefile&langs_count=8&layout=compact&theme=radical"/>
 </p>
      
   </td>
