@@ -100,7 +100,7 @@ https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=chemieai&show_icons=true&theme=darcula"/>
  </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=ChemieAi&theme=darcula"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=ChemieAi&theme=darcula" />
  </br>
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chemieai&hide=Roff,Assembly,Makefile&langs_count=8&layout=compact&theme=darcula"/>
 </p>
