@@ -122,7 +122,7 @@ https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-
 
 
 <div align="center">
- <b style = {font-weight: 600}>Visitors Count</b>
+ <b style = {font-weight: 600}>Visitors Count (Reset)</b>
 
 <p align="center"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=chemieai.visitor-badge&left_text=My%20Page%20Visitors" /></p> 
 <br>
