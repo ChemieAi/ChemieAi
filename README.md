@@ -4,7 +4,7 @@
  
  <p>- <i>I am a Computer Engineer with hands-on experience in React, Java, Spring Boot, Oracle, and MSSQL. I actively utilize JIRA and Agile methodologies in my workflow, continuously improving my engineering skills. My passion for technology and teamwork enables me to contribute effectively to projects. With my analytical thinking, problem-solving, and strong communication abilities, I strive to add value to every project I am involved in.</i></p>
  
-My Portfolio: [burak.engineer](https://burak.engineer)
+My Portfolio: [burakkizilay.com](https://burakkizilay.com)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%" align="right"/>
 
@@ -15,7 +15,7 @@ My Portfolio: [burak.engineer](https://burak.engineer)
 - 🔧 I’m currently working on my own Web App and Mobile App Projects.
 - 💡 I’m curious about DBMS and AI.
 - 📖 I’m currently learning React Native and Deutsch.
-- ❄️ I’m currently open for work. [burak.engineer](https://burak.engineer)
+- ❄️ I’m currently open for work. [burakkizilay.com](https://burakkizilay.com)
 - 📫 How to reach me ➪ chemie.valorant@gmail.com
 - <a href="https://linktr.ee/Chemie_"><img width="105px" alt="LinkTree" src="https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white" /></a> &nbsp; &nbsp; 
 - <a href="https://buymeacoffee.com/kzlyburakq"><img width="150px" alt="BuyMeaCoffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black" /></a> &nbsp; &nbsp;
