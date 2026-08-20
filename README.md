@@ -6,7 +6,50 @@
  
 My Portfolio: [burakkizilay.com](https://burakkizilay.com)
 
+<pre>
+                    .
+              ...                    ..
+           ...                         ..
+          ..        ......,,.,,...       ..
+         .    .:;;iirrrssssssXsriri;;,.    .
+        ..  ,rXXXXXAAAAAAAAAAAAAAA2AAXsr,   .
+           .iXXXXsXXAXXXXXXXAAAAAAAAAAAXi,. .
+         ..;sXXXXXXAAAXXXXXXAAAAAAAAAAAXsi:.
+         .:sXXri:::;;;isAAAXsi;::::::irXAXi,
+         .iAXi:::,,....:sXAX;,,.,:;iriisAAr:
+          ii:;ii;;::,,,,:ii:,:,,,:;;iri,;ii,
+       :r;;r,i;,,:..,.:.iAAi,i,,,.::,;r;sXirr:
+       :;rsAsrsrrii;ir:,sA2A;iXriissXXrXAAXXr:
+       .r:sXXsrsssrrri:rXAAAXirsssXsssXAAAX;X:
+        i:rXsXXssrrrr;riissrrsissssXXAAAAAs:s,
+        ir:sXXXXXXXAXr;,.,:,.iXXXXAAAAAAAX;is
+        ,;.;sXXXXXXsr;.      ,;irXXAXXXXs;.:,
+          ..:irssi:,.  ..,...   .,;sXXri:..
+          . .,:i;.   .,:;;;;;:..  .,i;:,...
+         ,:  ..,.  .;;;ii;;iiiii:   ,...  ,:,
+      .;i;,.       .::..     .,::.       ..:rr.
+     :si..;i.        ..... ..,,.         :i,.sX;,
+    .Xs: is;.         .........        ..,rr,iAXrr.
+  .:iXXi.rs;..:.                      :i ,rs:iAAsXs.
+ .XsrsXs:;si: ii,                   ,iXr :sr:XAAXAssr.
+::rXsssXX;;ri,,ii;:.             .,;rXs:.rs;sAAAAAsAX;
+i;:;rsssssi;ii,.;i;;:,..      .,:;rssr:.irisAXXAXXXrir
+;;;;:;rsrssriii, ,;i;;::,,,,,::;irrri,.;irXAXsXAXsiirr
+;iiii::;rrrrsri;,  ,:;;;;:::;;iirri:..;rrXXssXsriirrir
+iiiiiii:.,;irrrri:   .,:::;;;i;;:,. ,issssrsr;:isrrrii
+iiiiiiii:,,,,;iiiri;,    ......  ,:irrrrii;;;:;rrrri;;
+;iiiiiii;,:;:.,,;;;iri;,.    .,;iii;:;;::,:iiiirrrii;;
+;;i;;;;ii;:;;:,,i:.,,:;ii:.,;;;::::,,i:;;:iri;;iriii;:
+;;;;;;;;i;:::;:,;:,,:::::;;;:::::::,:i:;;;ii;;;iiiii;:
+;;;;;;;;;;;::;;:;:::::::;:::;;;:;:,,:i:;;;i;;;;ii;;;;:
+::::::::::::::::;:,:::,,::::;;:::,,,:;:::;;;;::;;;;;::
+::::::::,:::,,,,:,,,,,,,,,:::::,,,,,::,:::::::,:::::::
+,,,,,,,,,,,,,,,,:,,,,,,,,,,,,,,,,,,.,:,,,::::,,,::,,,,
+</pre>
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%" align="right"/>
+
+
 
 ## ⚡🙋‍♂️ About Me
 
