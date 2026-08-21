@@ -44,6 +44,10 @@ iiiiiiii:,,,,;iiiri;,    ......  ,:irrrrii;;;:;rrrri;;
 </pre>
     </td>
     <td valign="top">
+</br>
+</br>
+</br>
+</br>
      <p>- <i>I am a Computer Engineer with hands-on experience in React, Java, Spring Boot, Oracle, and MSSQL. I actively utilize JIRA and Agile methodologies in my workflow, continuously improving my engineering skills. My passion for technology and teamwork enables me to contribute effectively to projects. With my analytical thinking, problem-solving, and strong communication abilities, I strive to add value to every project I am involved in.</i></p>
  
 My Portfolio: [burakkizilay.com](https://burakkizilay.com)
@@ -52,7 +56,7 @@ My Portfolio: [burakkizilay.com](https://burakkizilay.com)
 </br>
 </br>
 </br>
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="420"/>
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
     </td>
   </tr>
 </table>
