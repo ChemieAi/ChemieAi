@@ -71,7 +71,7 @@ My Portfolio: [burakkizilay.com](https://burakkizilay.com)
 - 💡 I’m curious about DBMS and AI.
 - 📖 I’m currently learning React Native and Deutsch.
 - ❄️ I’m currently open for work. [burakkizilay.com](https://burakkizilay.com)
-- 📫 How to reach me ➪ chemie.valorant@gmail.com
+- 📫 How to reach me ➪ kzlyburak@gmail.com
 - <a href="https://linktr.ee/Chemie_"><img width="105px" alt="LinkTree" src="https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white" /></a> &nbsp; &nbsp; 
 - <a href="https://buymeacoffee.com/kzlyburakq"><img width="150px" alt="BuyMeaCoffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black" /></a> &nbsp; &nbsp;
 
